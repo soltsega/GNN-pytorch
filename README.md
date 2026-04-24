@@ -146,6 +146,16 @@ When writing Git commits for this project, use the commit prefix guide here:
 
 That document explains which prefixes to use, when to use them, and gives examples such as `feat:`, `fix:`, `docs:`, `perf:`, `ci:`, and `revert:`.
 
+## Active Project Direction
+
+The current applied project direction for this repository is a graph-based recommendation system.
+
+The detailed project documentation is here:
+
+- `docs/recommendation-system-with-graphs.md`
+- `docs/recommendation-phases.md`
+- `docs/recommendation-todo.md`
+
 ## How We Will Work
 
 For each topic, we will keep the same pattern:
